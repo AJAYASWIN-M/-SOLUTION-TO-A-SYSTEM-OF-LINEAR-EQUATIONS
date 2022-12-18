@@ -28,7 +28,7 @@ print(s)
 
 ## Output:
 
-![output](maths.png)
+![output](solution.png)
 
 
 ## Result:
